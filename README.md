@@ -1,5 +1,4 @@
-# outlook_to_vcard
-# csv to vcf from Outlook russian version 
+# outlook_to_vcard from Outlook russian version
 Example: python3 convert.py filename
 Result in filename.vcf
 
